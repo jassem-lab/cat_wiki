@@ -1,0 +1,19 @@
+{
+  "name": "cat_wiki",
+  "version": "1.0.0",
+  "description": "cat_wiki fullstack website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jassem-lab/cat_wiki.git"
+  },
+  "author": "Jassem gaaloul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jassem-lab/cat_wiki/issues"
+  },
+  "homepage": "https://github.com/jassem-lab/cat_wiki#readme"
+}
